@@ -1,6 +1,6 @@
 ---
 title: "Work Item Status Tracker"
-description: "Update "
+description: "Update and sync the status of any linked work item or issue"
 when: "A pull request is opened and an issue or work item is linked in the same pull request"
 actions: "Update the status of the issue / workitem and tag it as 'in-progress'"
 ---
